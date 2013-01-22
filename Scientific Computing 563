@@ -1,1 +1,8 @@
 Scientific Computing 563
+
+
+Homework 1   Section 10.2 Problem 4   
+
+In order to make the maximum error in interpolation at most 10-6 by utilizing Newton interpolation method, the value of N should be 13.
+(1) Choose N=5, and the interpolation points of x and log(x) at 1/2x3/2, on an equally space mesh of width 1/(N+1) are as follows:
+ 
